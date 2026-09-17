@@ -6,3 +6,6 @@ my journey to becoming a generative AI Engineer.
 -Build real-world AI projects
 -Learn LLMS,RAG,Agents and Fine-tuning
 -Build a professional GitHub portfolio
+
+## Current Progress
+Day 1 -Git and GitHub setup completed.
